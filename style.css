@@ -248,7 +248,7 @@ p {
 	left: 0;
 	height: 100%;
 	width: 0;
-	background-color: crimson;
+	background-color: violet;
 	animation: text_reveal_box 1s ease;
 	animation-delay: 0.5s;
 }
@@ -316,12 +316,12 @@ p {
 }
 #services .service-item h2 {
 	font-size: 2rem;
-	color: white;
+	color: black;
 	margin-bottom: 10px;
 	text-transform: uppercase;
 }
 #services .service-item p {
-	color: white;
+	color: black;
 	text-align: left;
 }
 /* End Services Section */
