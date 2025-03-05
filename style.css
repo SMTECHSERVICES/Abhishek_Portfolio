@@ -25,7 +25,7 @@ img {
 	object-fit: cover;
 }
 p {
-	color: black;
+	color: blue;
 	font-size: 1.4rem;
 	margin-top: 5px;
 	line-height: 2.5rem;
@@ -35,7 +35,7 @@ p {
 .section-title {
 	font-size: 4rem;
 	font-weight: 300;
-	color: black;
+	color: blue;
 	margin-bottom: 10px;
 	text-transform: uppercase;
 	letter-spacing: 0.2rem;
@@ -50,7 +50,7 @@ p {
 	padding: 10px 30px;
 	color: white;
 	background-color: transparent;
-	border: 2px solid crimson;
+	border: 2px solid black;
 	font-size: 2rem;
 	text-transform: uppercase;
 	letter-spacing: 0.1rem;
