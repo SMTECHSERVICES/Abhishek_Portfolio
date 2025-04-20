@@ -313,6 +313,7 @@ p {
 	height: 80px;
 	width: 80px;
 	margin-bottom: 20px;
+	align-items: center;
 }
 #services .service-item h2 {
 	font-size: 2rem;
