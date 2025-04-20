@@ -311,6 +311,7 @@ p {
 }
 #services .service-bottom .icon {
 	height: 80px;
+	position: center;
 	width: 80px;
 	margin-bottom: 20px;
 }
