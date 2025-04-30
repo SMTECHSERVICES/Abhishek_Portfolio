@@ -35,14 +35,14 @@ p {
 .section-title {
 	font-size: 4rem;
 	font-weight: 300;
-	color: blue;
+	color: black;
 	margin-bottom: 10px;
 	text-transform: uppercase;
 	letter-spacing: 0.2rem;
 	text-align: center;
 }
 .section-title span {
-	color: crimson;
+	color: burlywood;
 }
 
 .cta {
@@ -68,7 +68,7 @@ p {
 	color: white;
 }
 .brand h1 span {
-	color: wheat;
+	color: crimson;
 }
 
 /* Header section */
